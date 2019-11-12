@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs -p 9999",
+    "docs:build": "vuepress build docs"
+  }
+}
